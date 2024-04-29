@@ -1,0 +1,42 @@
+body {
+    background-color: rgb(97, 100, 103);
+    text-align: center;
+    margin-top: 80px;
+    
+  }
+    
+h1{
+    padding: 20px 0px;
+    text-decoration: underline;
+}
+p{
+    margin: 3px;
+    
+    text-align: right;
+    font-size: 12;
+    background-color: green;
+    font-weight: bold;
+/* figure out how to make the green stripes only highlight certain section */
+}
+ul{
+    margin: 5px;
+    text-align: left;
+}
+
+
+.education{
+ font-size: 12;
+font-weight: bold;
+}
+ h2{
+    font-size: 12;
+    font-weight:  bold;
+    text-decoration: underline;
+ }
+ div{
+    max-width: fit-content;
+}
+h3{
+    max-width: fit-content;
+    text-decoration: underline;
+}
